@@ -2,8 +2,13 @@
 
 <h2>Chia việc cả project</h2>
 
-- Front-end: Quân
+- Front-end: Quân\n
+- Back-end: Đan + Đăng\n
+- Database: Hiếu\n
 
-- Back-end: Đan + Đăng
+<h2>Chia việc theo tast</h2>
 
-- Database: Hiếu
+- Task 1: Quân (DL T6 16/9)\n
+- Task 2.1: Đan (DL CN 18/9)\n
+- Task 2.2: Đăng (DL CN 18/9)\n
+- Task 2.3: Hiếu (DL CN 18/9)\n
