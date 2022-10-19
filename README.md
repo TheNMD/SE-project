@@ -10,3 +10,4 @@
 - Task 2.1: Đan (DL CN 18/9)
 - Task 2.2: Đăng (DL CN 18/9)
 - Task 2.3: Hiếu (DL CN 18/9)
+- Task 3.1 + 3.2: Hiếu (DL T7 22/10)
