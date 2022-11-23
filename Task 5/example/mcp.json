@@ -5,6 +5,8 @@
             "mcp_name": "Bach Khoa",
             "mcp_loc": "286 Ly Thuong Kiet P.14 Q.10 TPHCM Vietnam",
             "mcp_coord": "10.772051878979322, 106.65793751913183",
+            "mcp_lat": 10.772051878979322, 
+            "mcp_lng": 106.65793751913183,
             "mcp_cap": -1,
             "mcp_janitor": "-1"
         },
@@ -13,6 +15,8 @@
             "mcp_name": "Khoa hoc Tu nhien",
             "mcp_loc": "227 Nguyen Van Cu P.4 Q.5 TPHCM Vietnam",
             "mcp_coord": "10.763067449921795, 106.68248238100105",
+            "mcp_lat": 10.763067449921795, 
+            "mcp_lng": 106.68248238100105,
             "mcp_cap": 15,
             "mcp_janitor": ""
         },
@@ -21,6 +25,8 @@
             "mcp_name": "Ngoai Thuong",
             "mcp_loc": "15 D5 P.25 Q.BinhThanh TPHCM Vietnam",
             "mcp_coord": "10.807145398750235, 106.71304761071107",
+            "mcp_lat": 10.807145398750235, 
+            "mcp_lng": 106.71304761071107,
             "mcp_cap": 50,
             "mcp_janitor": ""
         },
@@ -29,6 +35,8 @@
             "mcp_name": "Luat",
             "mcp_loc": "2 Nguyen Tat Thanh P.13 Q.4 TPHCM Vietnam",
             "mcp_coord": "10.767797310744436, 106.70550926895012",
+            "mcp_lat": 10.767797310744436, 
+            "mcp_lng": 106.70550926895012,
             "mcp_cap": 70,
             "mcp_janitor": ""
         },
@@ -37,6 +45,8 @@
             "mcp_name": "Y Duoc",
             "mcp_loc": "217 Hong Bang P.11 Q.5 TPHCM Vietnam",
             "mcp_coord": "10.754620361745873, 106.66326978244194",
+            "mcp_lat": 10.754620361745873, 
+            "mcp_lng": 106.66326978244194,
             "mcp_cap": 85,
             "mcp_janitor": ""
         }
