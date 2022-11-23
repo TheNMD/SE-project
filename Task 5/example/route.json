@@ -1,0 +1,14 @@
+{
+    "route_list": [
+        {
+            "route_id": "R0",
+            "route_direction": "M000 -> M004 -> M002 -> M000",
+            "route_status": "Finished"
+        },
+        {
+            "route_id": "R2",
+            "route_direction": "M000 -> M002 -> M003 -> M001 -> M004 -> M000",
+            "route_status": "Unassigned"
+        }
+    ]
+}
