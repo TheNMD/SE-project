@@ -1,0 +1,1408 @@
+[
+    {
+        "bounds": {
+            "northeast": {
+                "lat": 10.8099281,
+                "lng": 106.7163511
+            },
+            "southwest": {
+                "lat": 10.7531525,
+                "lng": 106.6576296
+            }
+        },
+        "copyrights": "Map data \u00a92022",
+        "legs": [
+            {
+                "distance": {
+                    "text": "9.8 km",
+                    "value": 9764
+                },
+                "duration": {
+                    "text": "28 mins",
+                    "value": 1682
+                },
+                "end_address": "42/36C1 Ung V\u0103n Khi\u00eam, Ph\u01b0\u1eddng 25, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vietnam",
+                "end_location": {
+                    "lat": 10.8073401,
+                    "lng": 106.7130697
+                },
+                "start_address": "268 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Ph\u01b0\u1eddng 14, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vietnam",
+                "start_location": {
+                    "lat": 10.7721165,
+                    "lng": 106.6579187
+                },
+                "steps": [
+                    {
+                        "distance": {
+                            "text": "22 m",
+                            "value": 22
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 7
+                        },
+                        "end_location": {
+                            "lat": 10.7720617,
+                            "lng": 106.6577234
+                        },
+                        "html_instructions": "Head <b>west</b> toward <b>L\u00fd Th\u01b0\u1eddng Ki\u1ec7t</b>",
+                        "polyline": {
+                            "points": "w|v`A_s~iSJf@"
+                        },
+                        "start_location": {
+                            "lat": 10.7721165,
+                            "lng": 106.6579187
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "1.0 km",
+                            "value": 958
+                        },
+                        "duration": {
+                            "text": "3 mins",
+                            "value": 174
+                        },
+                        "end_location": {
+                            "lat": 10.7638714,
+                            "lng": 106.659939
+                        },
+                        "html_instructions": "Turn <b>left</b> at the 1st cross street onto <b>L\u00fd Th\u01b0\u1eddng Ki\u1ec7t</b><div style=\"font-size:0.9em\">Pass by C\u00f4ng Ty Tnhh Tm Vlxd H\u1ed3ng Ph\u00e1t - \u0110\u00e1 Hoa C\u01b0\u01a1ng B\u1ea3o Ng\u1ecdc (on the left in 350m)</div>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "k|v`Awq~iSCPv@Q\\IHAvDu@p@Kv@O`@InAUpB_@bCe@TEJC^Gb@KVE|@SlDo@d@IBA|AWd@Kh@Id@KzBa@rBa@f@E"
+                        },
+                        "start_location": {
+                            "lat": 10.7720617,
+                            "lng": 106.6577234
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.7 km",
+                            "value": 660
+                        },
+                        "duration": {
+                            "text": "2 mins",
+                            "value": 136
+                        },
+                        "end_location": {
+                            "lat": 10.7666131,
+                            "lng": 106.6652066
+                        },
+                        "html_instructions": "Turn <b>left</b> onto <b>\u0110. 3/<wbr/>2</b><div style=\"font-size:0.9em\">Pass by Nha Khoa Ph\u00fa Th\u1ecd (on the right)</div>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "eiu`As__jSJEISSe@ISu@eBQc@AEi@kAI]_@w@Ua@e@gAa@cA]q@s@cBw@iBIUiAcCg@cAEK"
+                        },
+                        "start_location": {
+                            "lat": 10.7638714,
+                            "lng": 106.659939
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.3 km",
+                            "value": 335
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 53
+                        },
+                        "end_location": {
+                            "lat": 10.7680399,
+                            "lng": 106.6679032
+                        },
+                        "html_instructions": "Keep <b>right</b> to stay on <b>\u0110. 3/<wbr/>2</b>",
+                        "maneuver": "keep-right",
+                        "polyline": {
+                            "points": "izu`Aq``jSEMEKGK?AQ]EGQ_@oAyCa@cAO_@EIISO]AAUk@e@cA"
+                        },
+                        "start_location": {
+                            "lat": 10.7666131,
+                            "lng": 106.6652066
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.7 km",
+                            "value": 689
+                        },
+                        "duration": {
+                            "text": "2 mins",
+                            "value": 110
+                        },
+                        "end_location": {
+                            "lat": 10.7676735,
+                            "lng": 106.6741753
+                        },
+                        "html_instructions": "Turn <b>right</b> onto <b>L\u00fd Th\u00e1i T\u1ed5</b><div style=\"font-size:0.9em\">Pass by Lotteria (CN Ng\u00f4 Gia T\u1ef1) (on the right in 700m)</div>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "gcv`Akq`jSFIBIDODSBq@@oABeB?_@?EB}A@kBFeB@aBF_C@s@@Y@i@?a@BiAD_C?k@"
+                        },
+                        "start_location": {
+                            "lat": 10.7680399,
+                            "lng": 106.6679032
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "3.9 km",
+                            "value": 3936
+                        },
+                        "duration": {
+                            "text": "12 mins",
+                            "value": 729
+                        },
+                        "end_location": {
+                            "lat": 10.7921703,
+                            "lng": 106.6993458
+                        },
+                        "html_instructions": "At the roundabout, take the <b>4th</b> exit onto <b>\u0110i\u1ec7n Bi\u00ean Ph\u1ee7</b><div style=\"font-size:0.9em\">Pass by Ho\u00e0nh th\u00e1nh l\u00e1 C\u00f4 T\u00e1m (on the right in 1.4 km)</div>",
+                        "maneuver": "roundabout-right",
+                        "polyline": {
+                            "points": "}`v`AsxajSB?BABABABABCBC@C@C@C@C@E?C?C?EAEAGCEAAACAACAECA?AAC?AAA?C?AAA?CAC?C@C?CBE@C@ABA@CFq@g@gAo@gAs@MISMGEc@YKGw@s@iBaBIIi@c@e@e@{@s@a@[m@i@UUMKACKKu@aAW[Ya@]_@OQUYe@k@c@i@IIm@s@q@_AaAqAY_@]_@q@_Au@cAk@s@eBsBoA_BGGo@y@IKOS{@eAaAgAWU]_@a@c@]a@gCoCeBkBwB}BkBqBmBqB}BeCiBoBqDyDs@u@kAqAcAgAw@{@EGIGGIiDcDwCmCOMaAcAmBqBqAgAy@u@yCoCCC?AEEcB}A_AcA_@Yc@g@KMg@m@wAyAuAkAg@a@_Ay@YYIGyAwAuBqBm@i@MOKKKQ]m@"
+                        },
+                        "start_location": {
+                            "lat": 10.7676735,
+                            "lng": 106.6741753
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "1.7 km",
+                            "value": 1702
+                        },
+                        "duration": {
+                            "text": "3 mins",
+                            "value": 170
+                        },
+                        "end_location": {
+                            "lat": 10.8013019,
+                            "lng": 106.7112144
+                        },
+                        "html_instructions": "At <b>V\u00f2ng Xoay \u0110i\u1ec7n Bi\u00ean Ph\u1ee7</b>, take the <b>2nd</b> exit and stay on <b>\u0110i\u1ec7n Bi\u00ean Ph\u1ee7</b>",
+                        "maneuver": "roundabout-right",
+                        "polyline": {
+                            "points": "azz`A}ufjS?E?E?GAEAGAECEAEEECEECECGCEAG?GAGGWUm@m@OOMQsBmBKIMKkAkAm@]w@q@KEICIEGIg@e@g@e@c@c@o@k@[Yg@e@QQOOa@_@wDmD[[iDcDm@i@cBcBo@q@]c@_AqAm@eAi@aA_AmB_@{@]iAOm@e@qB?QAMIgAWgDEa@EYGa@"
+                        },
+                        "start_location": {
+                            "lat": 10.7921703,
+                            "lng": 106.6993458
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "1.0 km",
+                            "value": 963
+                        },
+                        "duration": {
+                            "text": "3 mins",
+                            "value": 182
+                        },
+                        "end_location": {
+                            "lat": 10.8095151,
+                            "lng": 106.7121668
+                        },
+                        "html_instructions": "At <b>Ng\u00e3 T\u01b0 H\u00e0ng Xanh</b>, take the <b>3rd</b> exit onto <b>X\u00f4 Vi\u1ebft Ngh\u1ec7 T\u0129nh</b>/<wbr/><b>QL13</b>",
+                        "maneuver": "roundabout-right",
+                        "polyline": {
+                            "points": "cs|`Aa`ijS@A@A?ABC@A@C?C@E?CAC?A?CACAACCACAAAAAAC?CAC?EAE?C?C?C@C?A@C@A@CBA@?@k@B[@q@@y@C_AAM?sDAG?uCGoBCO?a@?sCCc@Am@Aa@?WAmCCSAa@C[AYEMAGAQCy@SaBe@GAuAc@"
+                        },
+                        "start_location": {
+                            "lat": 10.8013019,
+                            "lng": 106.7112144
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "53 m",
+                            "value": 53
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 14
+                        },
+                        "end_location": {
+                            "lat": 10.8098607,
+                            "lng": 106.7125033
+                        },
+                        "html_instructions": "Slight <b>right</b> onto <b>X\u00f4 Vi\u1ebft Ngh\u1ec7 T\u0129nh</b> (signs for <b>Thanh Da</b>)",
+                        "maneuver": "turn-slight-right",
+                        "polyline": {
+                            "points": "of~`AafijSc@g@_@Y"
+                        },
+                        "start_location": {
+                            "lat": 10.8095151,
+                            "lng": 106.7121668
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.2 km",
+                            "value": 217
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 53
+                        },
+                        "end_location": {
+                            "lat": 10.8087415,
+                            "lng": 106.7140189
+                        },
+                        "html_instructions": "Turn <b>right</b> onto <b>Ung V\u0103n Khi\u00eam</b>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "sh~`AchijSMS`BeB`@e@NSNSx@oANW"
+                        },
+                        "start_location": {
+                            "lat": 10.8098607,
+                            "lng": 106.7125033
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.2 km",
+                            "value": 229
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 54
+                        },
+                        "end_location": {
+                            "lat": 10.8073401,
+                            "lng": 106.7130697
+                        },
+                        "html_instructions": "Turn <b>right</b> after Th\u1ecbt c\u1ea7y To\u00e0n Th\u1eafng (on the right)<div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "sa~`AsqijSv@b@@@@B@DJdB@H@D?@BB@BBBB@J@V@f@@N@z@DX@@?B?@??A@A?C"
+                        },
+                        "start_location": {
+                            "lat": 10.8087415,
+                            "lng": 106.7140189
+                        },
+                        "travel_mode": "DRIVING"
+                    }
+                ],
+                "traffic_speed_entry": [],
+                "via_waypoint": []
+            },
+            {
+                "distance": {
+                    "text": "7.6 km",
+                    "value": 7633
+                },
+                "duration": {
+                    "text": "20 mins",
+                    "value": 1222
+                },
+                "end_address": "1B B\u1ebfn V\u00e2n \u0110\u1ed3n, Ph\u01b0\u1eddng 12, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vietnam",
+                "end_location": {
+                    "lat": 10.7678868,
+                    "lng": 106.7056941
+                },
+                "start_address": "42/36C1 Ung V\u0103n Khi\u00eam, Ph\u01b0\u1eddng 25, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vietnam",
+                "start_location": {
+                    "lat": 10.8073401,
+                    "lng": 106.7130697
+                },
+                "steps": [
+                    {
+                        "distance": {
+                            "text": "9 m",
+                            "value": 9
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 3
+                        },
+                        "end_location": {
+                            "lat": 10.8073944,
+                            "lng": 106.713027
+                        },
+                        "html_instructions": "Head <b>northwest</b> toward <b>H\u1ebbm 42 Ung V\u0103n Khi\u00eam</b>",
+                        "polyline": {
+                            "points": "{x}`AukijS?BA@?@A?C?A?"
+                        },
+                        "start_location": {
+                            "lat": 10.8073401,
+                            "lng": 106.7130697
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.2 km",
+                            "value": 220
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 50
+                        },
+                        "end_location": {
+                            "lat": 10.8087415,
+                            "lng": 106.7140189
+                        },
+                        "html_instructions": "Continue onto <b>H\u1ebbm 42 Ung V\u0103n Khi\u00eam</b>",
+                        "polyline": {
+                            "points": "ey}`AmkijSYA{@EOAg@AWAKACACCACCC?AAEAIKeBAEACAAw@c@"
+                        },
+                        "start_location": {
+                            "lat": 10.8073944,
+                            "lng": 106.713027
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.3 km",
+                            "value": 284
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 79
+                        },
+                        "end_location": {
+                            "lat": 10.8076334,
+                            "lng": 106.7163511
+                        },
+                        "html_instructions": "Turn <b>right</b> onto <b>Ung V\u0103n Khi\u00eam</b><div style=\"font-size:0.9em\">Pass by B\u00f2 n\u00e9 3 ngon (on the right)</div>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "sa~`AsqijSR_@P]P[LYNYZq@JWNa@^eAn@qC"
+                        },
+                        "start_location": {
+                            "lat": 10.8087415,
+                            "lng": 106.7140189
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.7 km",
+                            "value": 743
+                        },
+                        "duration": {
+                            "text": "3 mins",
+                            "value": 162
+                        },
+                        "end_location": {
+                            "lat": 10.8010932,
+                            "lng": 106.7151776
+                        },
+                        "html_instructions": "Turn <b>right</b> after Nh\u00e0 h\u00e0ng Qu\u00e1n 95 (on the right)<div style=\"font-size:0.9em\">Pass by B\u00fan \u0110\u1eadu Tr\u00e0ng Ti\u1ec1n (on the left in 350m)</div>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "uz}`Ae`jjSlCZRBhBXzAPzAF`A?tCHjBF|AD|@Dh@FNBn@RhB^bAXF@vAZ"
+                        },
+                        "start_location": {
+                            "lat": 10.8076334,
+                            "lng": 106.7163511
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.2 km",
+                            "value": 190
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 22
+                        },
+                        "end_location": {
+                            "lat": 10.8014189,
+                            "lng": 106.7135941
+                        },
+                        "html_instructions": "Turn <b>right</b> onto <b>\u0110i\u1ec7n Bi\u00ean Ph\u1ee7</b>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "yq|`A{xijSVH[|A}@tE"
+                        },
+                        "start_location": {
+                            "lat": 10.8010932,
+                            "lng": 106.7151776
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.5 km",
+                            "value": 485
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 42
+                        },
+                        "end_location": {
+                            "lat": 10.8010995,
+                            "lng": 106.7092045
+                        },
+                        "html_instructions": "Slight <b>left</b> onto <b>C\u1ea7u v\u01b0\u1ee3t H\u00e0ng Xanh</b>",
+                        "maneuver": "turn-slight-left",
+                        "polyline": {
+                            "points": "{s|`A}nijS@@?@@B?BAb@ALCb@Cn@AVA`AAr@AN?b@?N?N?L@T?V@J@^@D@L@T@HBXJdARlBDb@FXJp@B^"
+                        },
+                        "start_location": {
+                            "lat": 10.8014189,
+                            "lng": 106.7135941
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "1.4 km",
+                            "value": 1426
+                        },
+                        "duration": {
+                            "text": "2 mins",
+                            "value": 118
+                        },
+                        "end_location": {
+                            "lat": 10.7926127,
+                            "lng": 106.6995974
+                        },
+                        "html_instructions": "Continue straight onto <b>\u0110i\u1ec7n Bi\u00ean Ph\u1ee7</b>",
+                        "maneuver": "straight",
+                        "polyline": {
+                            "points": "{q|`AoshjSRx@FXFLHTd@zAXn@`@t@Vj@lAvBNXTZnAbBTVTXNN`C|BxDnDjAfAd@b@x@v@TRRR~@|@d@b@x@v@ZXJJRPXXn@j@j@l@TTNL\\ZdA~@d@b@FFFFpBjBJFHFZ\\TVZ^"
+                        },
+                        "start_location": {
+                            "lat": 10.8010995,
+                            "lng": 106.7092045
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "1.4 km",
+                            "value": 1372
+                        },
+                        "duration": {
+                            "text": "5 mins",
+                            "value": 277
+                        },
+                        "end_location": {
+                            "lat": 10.7845373,
+                            "lng": 106.7079252
+                        },
+                        "html_instructions": "At <b>V\u00f2ng Xoay \u0110i\u1ec7n Bi\u00ean Ph\u1ee7</b>, take the <b>4th</b> exit onto <b>Nguy\u1ec5n B\u1ec9nh Khi\u00eam</b><div style=\"font-size:0.9em\">Pass by ICDAC - Trung T\u00e2m H\u1ed7 Tr\u1ee3 Ph\u00e1t Tri\u1ec3n Th\u00f4ng Tin V\u00e0 Truy\u1ec1n Th\u00f4ng (on the right in 700m)</div>",
+                        "maneuver": "roundabout-right",
+                        "polyline": {
+                            "points": "y|z`AowfjSAB?B?@?B?B?@?B@B?B@B?B@D@B@B@B@B@BBDBDDBD@F@D@B?DAFADCBCDE@E@G@E?E?E?GAEAGAECEAERWb@g@LQPSBCz@_A|@{@^c@HKp@u@d@g@vAcBrAyAHKfAmALKp@s@t@}@JKfBoB~@eAHGv@}@\\_@LMXW|@gAJIZ]rA{A~AeBtA}Ap@u@z@cAZ]"
+                        },
+                        "start_location": {
+                            "lat": 10.7926127,
+                            "lng": 106.6995974
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.3 km",
+                            "value": 325
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 58
+                        },
+                        "end_location": {
+                            "lat": 10.782249,
+                            "lng": 106.7060981
+                        },
+                        "html_instructions": "Turn <b>right</b> onto <b>Nguy\u1ec5n H\u1eefu C\u1ea3nh</b><div style=\"font-size:0.9em\">Pass by Saigon University - Campus 2 (on the right)</div>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "kjy`AqkhjSnAdAn@h@BBXTf@^`A|@FFLH^Xv@n@^Xr@N"
+                        },
+                        "start_location": {
+                            "lat": 10.7845373,
+                            "lng": 106.7079252
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.8 km",
+                            "value": 784
+                        },
+                        "duration": {
+                            "text": "2 mins",
+                            "value": 116
+                        },
+                        "end_location": {
+                            "lat": 10.7760561,
+                            "lng": 106.7067203
+                        },
+                        "html_instructions": "Turn <b>left</b> onto <b>\u0110. T\u00f4n \u0110\u1ee9c Th\u1eafng</b>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "a|x`Ac`hjSr@w@pByBj@u@X[DEFGd@g@FGFELILATCJAb@HTD\\F~@N|@PdBZTFpARPDv@NxAVjARL@lBTVDl@FPB"
+                        },
+                        "start_location": {
+                            "lat": 10.782249,
+                            "lng": 106.7060981
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.2 km",
+                            "value": 228
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 44
+                        },
+                        "end_location": {
+                            "lat": 10.7747998,
+                            "lng": 106.7064737
+                        },
+                        "html_instructions": "<b>\u0110. T\u00f4n \u0110\u1ee9c Th\u1eafng</b> turns <b>right</b> and becomes <b>C\u00f4ng Tr\u01b0\u1eddng M\u00ea Linh</b><div style=\"font-size:0.9em\">Pass by Renaissance Riverside Hotel Saigon (on the right)</div>",
+                        "polyline": {
+                            "points": "kuw`A_dhjSBD@@@@@?@@^PAXB\\BFDFBFDDBFFFFDFBFBHDFBJ@HBZCTETKLSHWHWBU"
+                        },
+                        "start_location": {
+                            "lat": 10.7760561,
+                            "lng": 106.7067203
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.4 km",
+                            "value": 435
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 66
+                        },
+                        "end_location": {
+                            "lat": 10.7709147,
+                            "lng": 106.7062442
+                        },
+                        "html_instructions": "Turn <b>right</b> onto <b>\u0110. T\u00f4n \u0110\u1ee9c Th\u1eafng</b>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "omw`AmbhjSFGJCB?FA@?X@jABzERnDNv@BtADb@@bAD"
+                        },
+                        "start_location": {
+                            "lat": 10.7747998,
+                            "lng": 106.7064737
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.4 km",
+                            "value": 402
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 49
+                        },
+                        "end_location": {
+                            "lat": 10.7675205,
+                            "lng": 106.705986
+                        },
+                        "html_instructions": "Continue onto <b>C\u1ea7u Kh\u00e1nh H\u1ed9i</b>",
+                        "polyline": {
+                            "points": "euv`A_ahjSR@Z@TBB?NBZBXHZFTFRHd@RNHPHb@PLDRFRBH@b@DP?T?NANANAv@Qv@[v@a@"
+                        },
+                        "start_location": {
+                            "lat": 10.7709147,
+                            "lng": 106.7062442
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "92 m",
+                            "value": 92
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 12
+                        },
+                        "end_location": {
+                            "lat": 10.7667994,
+                            "lng": 106.7064072
+                        },
+                        "html_instructions": "Continue onto <b>Nguy\u1ec5n T\u1ea5t Th\u00e0nh</b>",
+                        "polyline": {
+                            "points": "_`v`Am_hjSpAo@|@c@"
+                        },
+                        "start_location": {
+                            "lat": 10.7675205,
+                            "lng": 106.705986
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.2 km",
+                            "value": 220
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 34
+                        },
+                        "end_location": {
+                            "lat": 10.7659248,
+                            "lng": 106.7045964
+                        },
+                        "html_instructions": "Turn <b>right</b> onto <b>\u0110\u01b0\u1eddng \u0110o\u00e0n Nh\u01b0 H\u00e0i</b>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "o{u`AabhjSn@|Ab@nAzAzD"
+                        },
+                        "start_location": {
+                            "lat": 10.7667994,
+                            "lng": 106.7064072
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.2 km",
+                            "value": 191
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 44
+                        },
+                        "end_location": {
+                            "lat": 10.7675158,
+                            "lng": 106.7039693
+                        },
+                        "html_instructions": "Turn <b>right</b> after CREATORY (on the left)",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "_vu`AwvgjSoBl@KAC?C@K@_Bh@oAb@"
+                        },
+                        "start_location": {
+                            "lat": 10.7659248,
+                            "lng": 106.7045964
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.2 km",
+                            "value": 172
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 35
+                        },
+                        "end_location": {
+                            "lat": 10.7681835,
+                            "lng": 106.7053862
+                        },
+                        "html_instructions": "Turn <b>right</b> onto <b>B\u1ebfn V\u00e2n \u0110\u1ed3n</b>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "_`v`AyrgjSi@eBM]O_@Uo@a@}@CI"
+                        },
+                        "start_location": {
+                            "lat": 10.7675158,
+                            "lng": 106.7039693
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "55 m",
+                            "value": 55
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 11
+                        },
+                        "end_location": {
+                            "lat": 10.7678868,
+                            "lng": 106.7056941
+                        },
+                        "html_instructions": "At the roundabout, take the <b>1st</b> exit<div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                        "maneuver": "roundabout-right",
+                        "polyline": {
+                            "points": "cdv`Au{gjS?A?A?A?A?A?AAA?AAA?AAAJGPM`@O"
+                        },
+                        "start_location": {
+                            "lat": 10.7681835,
+                            "lng": 106.7053862
+                        },
+                        "travel_mode": "DRIVING"
+                    }
+                ],
+                "traffic_speed_entry": [],
+                "via_waypoint": []
+            },
+            {
+                "distance": {
+                    "text": "4.3 km",
+                    "value": 4313
+                },
+                "duration": {
+                    "text": "12 mins",
+                    "value": 728
+                },
+                "end_address": "231 Nguy\u1ec5n V\u0103n C\u1eeb, Ph\u01b0\u1eddng 4, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vietnam",
+                "end_location": {
+                    "lat": 10.7630909,
+                    "lng": 106.6824733
+                },
+                "start_address": "1B B\u1ebfn V\u00e2n \u0110\u1ed3n, Ph\u01b0\u1eddng 12, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vietnam",
+                "start_location": {
+                    "lat": 10.7678868,
+                    "lng": 106.7056941
+                },
+                "steps": [
+                    {
+                        "distance": {
+                            "text": "53 m",
+                            "value": 53
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 11
+                        },
+                        "end_location": {
+                            "lat": 10.7675205,
+                            "lng": 106.705986
+                        },
+                        "html_instructions": "Head <b>southeast</b> toward <b>C\u1ea7u Kh\u00e1nh H\u1ed9i</b>",
+                        "polyline": {
+                            "points": "ibv`Aq}gjSJEd@WNKFQ"
+                        },
+                        "start_location": {
+                            "lat": 10.7678868,
+                            "lng": 106.7056941
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "92 m",
+                            "value": 92
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 20
+                        },
+                        "end_location": {
+                            "lat": 10.7667994,
+                            "lng": 106.7064072
+                        },
+                        "html_instructions": "Continue onto <b>Nguy\u1ec5n T\u1ea5t Th\u00e0nh</b>",
+                        "polyline": {
+                            "points": "_`v`Am_hjSpAo@|@c@"
+                        },
+                        "start_location": {
+                            "lat": 10.7675205,
+                            "lng": 106.705986
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.2 km",
+                            "value": 220
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 34
+                        },
+                        "end_location": {
+                            "lat": 10.7659248,
+                            "lng": 106.7045964
+                        },
+                        "html_instructions": "Turn <b>right</b> onto <b>\u0110\u01b0\u1eddng \u0110o\u00e0n Nh\u01b0 H\u00e0i</b>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "o{u`AabhjSn@|Ab@nAzAzD"
+                        },
+                        "start_location": {
+                            "lat": 10.7667994,
+                            "lng": 106.7064072
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.2 km",
+                            "value": 191
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 44
+                        },
+                        "end_location": {
+                            "lat": 10.7675158,
+                            "lng": 106.7039693
+                        },
+                        "html_instructions": "Turn <b>right</b> after CREATORY (on the left)",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "_vu`AwvgjSoBl@KAC?C@K@_Bh@oAb@"
+                        },
+                        "start_location": {
+                            "lat": 10.7659248,
+                            "lng": 106.7045964
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.1 km",
+                            "value": 138
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 23
+                        },
+                        "end_location": {
+                            "lat": 10.7669144,
+                            "lng": 106.7030033
+                        },
+                        "html_instructions": "Turn <b>left</b> onto <b>B\u1ebfn V\u00e2n \u0110\u1ed3n</b>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "_`v`AyrgjSMDFRDNJXP\\LRHLLLLNf@^"
+                        },
+                        "start_location": {
+                            "lat": 10.7675158,
+                            "lng": 106.7039693
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "2.1 km",
+                            "value": 2139
+                        },
+                        "duration": {
+                            "text": "4 mins",
+                            "value": 254
+                        },
+                        "end_location": {
+                            "lat": 10.7542959,
+                            "lng": 106.6885801
+                        },
+                        "html_instructions": "Slight <b>left</b> to stay on <b>B\u1ebfn V\u00e2n \u0110\u1ed3n</b>",
+                        "maneuver": "turn-slight-left",
+                        "polyline": {
+                            "points": "e|u`AwlgjS^J\\V~AlAx@j@HD~@t@DDf@^RTLN^XTXPTX`@xB|DDJ@@BLVfA?@FRJZDPHPFLJPh@p@LNNPFHHFTPl@d@DBtA|@^TrA~@dAp@`@Xx@j@dBnAVTTP\\`@VZX^DJn@jA`@x@Rd@hAtBHP\\n@`AlB~@fB\\l@dA`BtAjBJLfEjF|@fAfAnARRrDlD"
+                        },
+                        "start_location": {
+                            "lat": 10.7669144,
+                            "lng": 106.7030033
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.5 km",
+                            "value": 515
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 65
+                        },
+                        "end_location": {
+                            "lat": 10.7555404,
+                            "lng": 106.6857681
+                        },
+                        "html_instructions": "Keep <b>right</b> at the fork and merge onto <b>c\u1ea7u Nguy\u1ec5n V\u0103n C\u1eeb</b>",
+                        "maneuver": "fork-right",
+                        "polyline": {
+                            "points": "kms`AsrdjSJPJNPRt@v@\\^Z\\VVVTTVDJ@D?JADADCFCDOJ_@J_@Hs@Pc@Lc@Nc@PQFYLKDMHg@Zu@j@_@Z_@X"
+                        },
+                        "start_location": {
+                            "lat": 10.7542959,
+                            "lng": 106.6885801
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.9 km",
+                            "value": 885
+                        },
+                        "duration": {
+                            "text": "3 mins",
+                            "value": 176
+                        },
+                        "end_location": {
+                            "lat": 10.7628957,
+                            "lng": 106.6827003
+                        },
+                        "html_instructions": "Continue onto <b>Nguy\u1ec5n V\u0103n C\u1eeb</b><div style=\"font-size:0.9em\">Pass by C\u1eeda H\u00e0ng \u0110\u1ed3ng H\u1ed3 Thanh Nguy\u1ec7t (on the right in 450m)</div>",
+                        "polyline": {
+                            "points": "cus`AaadjSWJi@ZeBv@IDSJODo@TaFxAQFgAXs@Re@Lk@Nq@RWHcAXa@JiAZcBd@aAXq@RaBh@}@VA?[JE@QDoA^"
+                        },
+                        "start_location": {
+                            "lat": 10.7555404,
+                            "lng": 106.6857681
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "33 m",
+                            "value": 33
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 33
+                        },
+                        "end_location": {
+                            "lat": 10.7627959,
+                            "lng": 106.682415
+                        },
+                        "html_instructions": "Turn <b>left</b>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "ccu`A{mcjSDNBJHZ"
+                        },
+                        "start_location": {
+                            "lat": 10.7628957,
+                            "lng": 106.6827003
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "28 m",
+                            "value": 28
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 26
+                        },
+                        "end_location": {
+                            "lat": 10.7630267,
+                            "lng": 106.6823162
+                        },
+                        "html_instructions": "Turn <b>right</b>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "obu`AclcjSm@R"
+                        },
+                        "start_location": {
+                            "lat": 10.7627959,
+                            "lng": 106.682415
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "19 m",
+                            "value": 19
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 42
+                        },
+                        "end_location": {
+                            "lat": 10.7630909,
+                            "lng": 106.6824733
+                        },
+                        "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "}cu`AokcjSK]"
+                        },
+                        "start_location": {
+                            "lat": 10.7630267,
+                            "lng": 106.6823162
+                        },
+                        "travel_mode": "DRIVING"
+                    }
+                ],
+                "traffic_speed_entry": [],
+                "via_waypoint": []
+            },
+            {
+                "distance": {
+                    "text": "2.9 km",
+                    "value": 2884
+                },
+                "duration": {
+                    "text": "10 mins",
+                    "value": 603
+                },
+                "end_address": "219 H\u1ed3ng B\u00e0ng, Ph\u01b0\u1eddng 11, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vietnam",
+                "end_location": {
+                    "lat": 10.754651,
+                    "lng": 106.6632992
+                },
+                "start_address": "231 Nguy\u1ec5n V\u0103n C\u1eeb, Ph\u01b0\u1eddng 4, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vietnam",
+                "start_location": {
+                    "lat": 10.7630909,
+                    "lng": 106.6824733
+                },
+                "steps": [
+                    {
+                        "distance": {
+                            "text": "19 m",
+                            "value": 19
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 3
+                        },
+                        "end_location": {
+                            "lat": 10.7630267,
+                            "lng": 106.6823162
+                        },
+                        "html_instructions": "Head <b>southwest</b>",
+                        "polyline": {
+                            "points": "idu`AmlcjSJ\\"
+                        },
+                        "start_location": {
+                            "lat": 10.7630909,
+                            "lng": 106.6824733
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "28 m",
+                            "value": 28
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 10
+                        },
+                        "end_location": {
+                            "lat": 10.7627959,
+                            "lng": 106.682415
+                        },
+                        "html_instructions": "Turn <b>left</b> toward <b>Nguy\u1ec5n V\u0103n C\u1eeb</b>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "}cu`AokcjSl@S"
+                        },
+                        "start_location": {
+                            "lat": 10.7630267,
+                            "lng": 106.6823162
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "24 m",
+                            "value": 24
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 15
+                        },
+                        "end_location": {
+                            "lat": 10.7628653,
+                            "lng": 106.6826189
+                        },
+                        "html_instructions": "Turn <b>left</b> toward <b>Nguy\u1ec5n V\u0103n C\u1eeb</b>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "obu`AclcjSI[CK"
+                        },
+                        "start_location": {
+                            "lat": 10.7627959,
+                            "lng": 106.682415
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.3 km",
+                            "value": 285
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 73
+                        },
+                        "end_location": {
+                            "lat": 10.7652065,
+                            "lng": 106.6817867
+                        },
+                        "html_instructions": "Turn <b>left</b> onto <b>Nguy\u1ec5n V\u0103n C\u1eeb</b>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "}bu`AkmcjSEO_@JuA`@[HyA`@a@NsBj@kA^"
+                        },
+                        "start_location": {
+                            "lat": 10.7628653,
+                            "lng": 106.6826189
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "2.1 km",
+                            "value": 2081
+                        },
+                        "duration": {
+                            "text": "7 mins",
+                            "value": 390
+                        },
+                        "end_location": {
+                            "lat": 10.7562333,
+                            "lng": 106.6662498
+                        },
+                        "html_instructions": "At <b>Ng\u00e3 s\u00e1u C\u1ed9ng ho\u00e0</b>, take the <b>4th</b> exit onto <b>\u0110. H\u00f9ng V\u01b0\u01a1ng</b><div style=\"font-size:0.9em\">Pass by Tan Loc billiards (on the right in 1 km)</div>",
+                        "maneuver": "roundabout-right",
+                        "polyline": {
+                            "points": "qqu`AehcjS?AEECECCCACACAC?EAE?E@G?E@E@EBE@CBCBCDCBADAD?D?D?D@D@D@DBDBBBBBBDBD@@@@?@??@D?B@B?@?B?BAB?@?Hb@?@hBbDnAxB~@|Al@`AR^R\\t@rA^p@Vb@p@jANTj@bA@Bz@~AHP`AbBd@z@Xj@n@bAh@fAT\\t@nAfBhDjB~CfAjBT^r@pAp@jA`BjC~AfDDJt@tA`@v@HN?@`@~@Xt@Nb@f@bBFRDTX~AVz@DL"
+                        },
+                        "start_location": {
+                            "lat": 10.7652065,
+                            "lng": 106.6817867
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.3 km",
+                            "value": 323
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 58
+                        },
+                        "end_location": {
+                            "lat": 10.7555763,
+                            "lng": 106.6633733
+                        },
+                        "html_instructions": "Continue onto <b>H\u1ed3ng B\u00e0ng</b>",
+                        "polyline": {
+                            "points": "mys`Aag`jSj@rDtAjK"
+                        },
+                        "start_location": {
+                            "lat": 10.7562333,
+                            "lng": 106.6662498
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "80 m",
+                            "value": 80
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 42
+                        },
+                        "end_location": {
+                            "lat": 10.7548693,
+                            "lng": 106.6635023
+                        },
+                        "html_instructions": "Turn <b>left</b> at <b>Nguy\u1ec5n Kim</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "kus`Aau_jS\\GnBQ"
+                        },
+                        "start_location": {
+                            "lat": 10.7555763,
+                            "lng": 106.6633733
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "44 m",
+                            "value": 44
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 12
+                        },
+                        "end_location": {
+                            "lat": 10.754651,
+                            "lng": 106.6632992
+                        },
+                        "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Restricted usage road</div><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "}ps`A{u_jSDRBLBH@@@@B?F?HC@A@A"
+                        },
+                        "start_location": {
+                            "lat": 10.7548693,
+                            "lng": 106.6635023
+                        },
+                        "travel_mode": "DRIVING"
+                    }
+                ],
+                "traffic_speed_entry": [],
+                "via_waypoint": []
+            },
+            {
+                "distance": {
+                    "text": "2.2 km",
+                    "value": 2180
+                },
+                "duration": {
+                    "text": "8 mins",
+                    "value": 500
+                },
+                "end_address": "268 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Ph\u01b0\u1eddng 14, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vietnam",
+                "end_location": {
+                    "lat": 10.7721165,
+                    "lng": 106.6579187
+                },
+                "start_address": "219 H\u1ed3ng B\u00e0ng, Ph\u01b0\u1eddng 11, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vietnam",
+                "start_location": {
+                    "lat": 10.754651,
+                    "lng": 106.6632992
+                },
+                "steps": [
+                    {
+                        "distance": {
+                            "text": "44 m",
+                            "value": 44
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 15
+                        },
+                        "end_location": {
+                            "lat": 10.7548693,
+                            "lng": 106.6635023
+                        },
+                        "html_instructions": "Head <b>north</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+                        "polyline": {
+                            "points": "qos`Ast_jSA@A@IBG?C?AAAACICMES"
+                        },
+                        "start_location": {
+                            "lat": 10.754651,
+                            "lng": 106.6632992
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "63 m",
+                            "value": 63
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 27
+                        },
+                        "end_location": {
+                            "lat": 10.7554282,
+                            "lng": 106.6634135
+                        },
+                        "html_instructions": "Turn <b>left</b> toward <b>H\u1ed3ng B\u00e0ng</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "}ps`A{u_jSoBP"
+                        },
+                        "start_location": {
+                            "lat": 10.7548693,
+                            "lng": 106.6635023
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.1 km",
+                            "value": 125
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 48
+                        },
+                        "end_location": {
+                            "lat": 10.7553841,
+                            "lng": 106.6624043
+                        },
+                        "html_instructions": "Turn <b>left</b> at the 1st cross street onto <b>H\u1ed3ng B\u00e0ng</b>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "mts`Aiu_jS]FFb@Db@XxB"
+                        },
+                        "start_location": {
+                            "lat": 10.7554282,
+                            "lng": 106.6634135
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "1.9 km",
+                            "value": 1926
+                        },
+                        "duration": {
+                            "text": "7 mins",
+                            "value": 396
+                        },
+                        "end_location": {
+                            "lat": 10.7720617,
+                            "lng": 106.6577234
+                        },
+                        "html_instructions": "Turn <b>right</b> at the 1st cross street onto <b>L\u00fd Th\u01b0\u1eddng Ki\u1ec7t</b><div style=\"font-size:0.9em\">Pass by H\u00f4ng B\u1ec7nh Vi\u1ec7n H\u00f9ng V\u01b0\u01a1ng L\u00fd Th\u01b0\u1eddng Ki\u1ec7t (on the left)</div>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "cts`A_o_jSi@JsDx@YFoB^sB^uBb@Q@aAPaBXSDo@Je@JK@eAPiDn@uAZo@L{@PKBs@PIBk@F}@LgBZMAc@HO?Q?MD_@LsB^}B`@a@Hi@Je@Ju@J_Cd@wEz@c@H]FeDp@SB{@La@HI@kATuAXm@N}Dn@e@Lo@N"
+                        },
+                        "start_location": {
+                            "lat": 10.7553841,
+                            "lng": 106.6624043
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "22 m",
+                            "value": 22
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 14
+                        },
+                        "end_location": {
+                            "lat": 10.7721165,
+                            "lng": 106.6579187
+                        },
+                        "html_instructions": "Turn <b>right</b> at <b>\u0110\u01b0\u1eddng S\u1ed1 2</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "k|v`Awq~iSKg@"
+                        },
+                        "start_location": {
+                            "lat": 10.7720617,
+                            "lng": 106.6577234
+                        },
+                        "travel_mode": "DRIVING"
+                    }
+                ],
+                "traffic_speed_entry": [],
+                "via_waypoint": []
+            }
+        ],
+        "overview_polyline": {
+            "points": "w|v`A_s~iSJf@CPtA[jHsAlMcChHsApDo@`Dm@zCg@JEIS]y@sB{Ei@uA{@iBkDcIaCiFSg@yB_FiBmEe@cAFIHYHeADuDDoFR{JFoDDkDFANIHOBQGYIIMEWCQFCDCFq@g@oCcBa@Wk@_@cA{@cEuDaDoCqA}A_BoBiByB{DeFqDwEmFuGwCmDuB{By]m_@{FkGaE}DgD{CoDuDiHqGiDiDcAaAs@{@wAyAuAkAgB{AsFkFgAeAi@_A?KE[OWYMOA_@]_E}DYUkAkAm@]cAw@SI{ByBkKwJwEmEsCuC}AuBwAgC_BiDm@wBe@qB?QKuA]iEM{@FIDOAMSSc@AKHABgADyDC{DAeGKiFEuFGkBMaB[iBg@uAc@c@g@m@m@bCkChBoCz@h@NtBFNRFjCJ`@?@AABmBIoAGIKOwBEKw@c@d@}@n@oAvAqDn@qClCZ|B\\zAPzAFvEHhELfBLlFpA~A\\VH[|A{@vE@DGxAI|DArAHzBR~BXpCRjAVxANf@n@pBz@dBdBbDd@t@jCdDpQvPpGfGpH~GfAdAXb@?D?LBNRd@XHVGLW@YIYAERWp@y@nCsC`CmC|FwG`CiClJiKzEiF~EuF|GxFvAhA^Xr@NdDqDdAqAz@}@TOb@EJAb@Hr@LxFdAtF`A~Ep@~@JDFd@T@v@HNT\\`@RRDd@?j@QVk@Lm@RKf@?nOj@pENdAHfB\\zAp@p@Vf@J~@FdAEv@Qv@[hCqA|@c@n@|A~BjGoBl@KAG@kBj@oAb@i@eB]}@w@mBCK?CAGACHKdB{@V]nCsArAlDzAzDoBl@OAOBoDlAMDFRPh@^p@VZt@n@^J\\VxCxBvB`BvAxAj@v@~BhE\\xAb@rA|@pAn@r@~CxBzE`D~CzBl@f@tAhBnD`HhDvGbBnC`BxBdGrHzAbBrDlDV`@`ChCn@l@Zb@A\\GLOJ_@JsAZgA\\{Al@u@d@uAfAw@d@oCrA}Al@oJnCoLbDiIbCoA^DNLf@m@RK]J\\l@SMg@EO_@JqBj@{Bp@_EjAEGKKQEYBUJMRAVHVPNJBZ@Jd@fH|LbGlKbHlMjAlBrEhIbEhH`BjC~AfDz@`BlAhCh@xAn@vB^tB\\hA`C~PlCYNl@VABCCBW@Om@mCXLfAXxBi@JmE`AkJdBgF|@aHnAmE~@}@TiBTuBXs@H_@DsCl@oFbAqLvBsGjAmEz@kF~@uA\\Kg@"
+        },
+        "summary": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7",
+        "warnings": [],
+        "waypoint_order": [
+            1,
+            2,
+            0,
+            3
+        ]
+    }
+]
