@@ -19,5 +19,12 @@ with open("./example/mcp.json") as file: # MCP id = 000 duoc coi la diem khoi ha
          
 print(mcp_arr) #Array bao gom cac MCP chua co janitor
 
-jan_id = str(input())
-mcp_id = str(input())
+# TODO: 1. Cap nhat id cua janitor duoc chon vao file json cua MCP tuong ung
+# TODO: 2. Cap nhat id cua MCP duoc chon va janitor status vao file json cua janitor tuong ung
+# Tren cai table janitor tren web, vi du o janitor 008 thi chon trong cai dropbox cai MCP 009 roi nhan assign thi se tuong tu nhu 2 cai input o duoi
+# Khi nhan nut assign thi se load file python de process viec gan mcp vao janitor cap nhat vo file json cua mcp va jan
+# Quan Bui se dung cai table va su dung noi dung cua file json de dien vo cai table do
+
+# Vi du 1 function can implement
+jan_id = str(input()) #1 Chon 1 janitor nao d
+mcp_id = str(input()) #2 Chon 1 MCP nao do
