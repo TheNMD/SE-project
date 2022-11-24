@@ -27,11 +27,11 @@ function initialize() {
     mapTypeId: google.maps.MapTypeId.ROADMAP
   }
   var map = new google.maps.Map(map_canvas, map_opt);
-  add_marker(center_coord, map, "HQ", "red");
-  add_marker(mcp1_coord, map, "MCP1", "blue");
-  add_marker(mcp2_coord, map, "MCP2", "blue");
-  add_marker(mcp3_coord, map, "MCP3", "blue");
-  add_marker(mcp4_coord, map, "MCP4", "blue");
+  add_marker(center_coord, map, "HQ");
+  add_marker(mcp1_coord, map, "MCP1");
+  add_marker(mcp2_coord, map, "MCP2");
+  add_marker(mcp3_coord, map, "MCP3");
+  add_marker(mcp4_coord, map, "MCP4");
 }
 
 function add_marker(location, map, title, color) {
