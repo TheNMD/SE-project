@@ -34,12 +34,11 @@ function initialize() {
   add_marker(mcp4_coord, map, "MCP4");
 }
 
-function add_marker(location, map, title, color) {
+function add_marker(location, map, title) {
   var marker = new google.maps.Marker({
     position: location,
-    title: title,
-    color: color,
-    map: map
+    map: map,
+    title: title
   });
   return marker
 }
