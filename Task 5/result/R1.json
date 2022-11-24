@@ -14,53 +14,6 @@
         "legs": [
             {
                 "distance": {
-                    "text": "1 m",
-                    "value": 0
-                },
-                "duration": {
-                    "text": "1 min",
-                    "value": 0
-                },
-                "end_address": "268 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Ph\u01b0\u1eddng 14, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vietnam",
-                "end_location": {
-                    "lat": 10.7721165,
-                    "lng": 106.6579187
-                },
-                "start_address": "268 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Ph\u01b0\u1eddng 14, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vietnam",
-                "start_location": {
-                    "lat": 10.7721165,
-                    "lng": 106.6579187
-                },
-                "steps": [
-                    {
-                        "distance": {
-                            "text": "1 m",
-                            "value": 0
-                        },
-                        "duration": {
-                            "text": "1 min",
-                            "value": 0
-                        },
-                        "end_location": {
-                            "lat": 10.7721165,
-                            "lng": 106.6579187
-                        },
-                        "html_instructions": "Head",
-                        "polyline": {
-                            "points": "w|v`A_s~iS"
-                        },
-                        "start_location": {
-                            "lat": 10.7721165,
-                            "lng": 106.6579187
-                        },
-                        "travel_mode": "DRIVING"
-                    }
-                ],
-                "traffic_speed_entry": [],
-                "via_waypoint": []
-            },
-            {
-                "distance": {
                     "text": "3.8 km",
                     "value": 3816
                 },
@@ -1017,13 +970,12 @@
         "overview_polyline": {
             "points": "w|v`A_s~iSJf@CPtA[jHsAhKoBxCm@tHsApFcArBa@f@EJEIS]y@gAiCk@qAI]_@w@{@iB_AuBkBmEsAyCm@oAKY_@s@sDyIWm@e@cAFIHYDSBq@DuD?e@DiEHgELwFHwGNELMFQASISECECJWvA_HvAuGhB}I`C_LL@RERQHSAQAE|EyAxBm@dAYBJCKn@Q`Bi@b@MlIaCfCq@rA]nAa@fEiAxH}BhDeBjCsBr@c@`@Sr@YdA[pBg@p@QnBa@\\KHHFHNb@?JCREFQFM?ICSSoAkAoBoBkCoC}A{A_BaBkBwBqAcBcFoGmAkBeAeBiBgDkFgKq@y@q@s@qAeA][kBmAeD{B{DsCuA{AQe@e@cBOs@i@aAm@eAk@eAsAaBk@i@eDgCwByAs@i@m@e@WU]g@]}@q@wB]}@{@wB?GAGACHIr@]p@]NKFQnCsArAlDzAzDoBl@OAOBoDlAMDFRPh@^p@VZt@n@PVxAdA`BhAnBzANRATy@~@YXqA`A_BdAsAbAo@d@MHGIeAoAAAyA_B|BcAr@g@PQl@Pf@TZDz@d@`@P\\VLJl@x@Zj@HPZSlA~B`BbDp@pA\\h@t@v@vAbAdHzElChBzAnAtAfBjAvBxCfGnC~ExAvBfCdDrBhCxCfD|FdGfBnBn@p@lA~@rAp@rBp@b@V`@\\l@dA^jAPhAAtAGp@Mt@}AvHc@dCEf@?nAD~@^~DT|D?~@AlADd@Ff@Pn@h@hA|@z@hAr@j@Rz@NjAVbAj@|@z@h@`ARt@Jr@F`AAx@OvB_@~BgBnG_@hBKv@ObCOlBUAKjAc@dICr@M`BIbB?vABl@LxAb@~Bh@xBE`@KTUf@e@h@g@bAYfAYfAGpA?X}CBcABa@@gAD_HSoCEOaA{@sHnBQDRFVBBVE@AA@KDOCGWESoBP]FFb@^|CgJlBiFbAsARkEv@qARiDn@uAZkB^_ATu@JeDh@MAc@Ha@?m@RqF`AgDl@yKrByDt@}AVuAVcCh@cF|@o@NKg@"
         },
-        "summary": "",
+        "summary": "L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, \u0110. 3/2 and L\u00fd Th\u00e1i T\u1ed5",
         "warnings": [],
         "waypoint_order": [
-            0,
+            1,
             2,
-            3,
-            1
+            0
         ]
     }
 ]

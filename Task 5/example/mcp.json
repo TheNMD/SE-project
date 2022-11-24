@@ -6,7 +6,8 @@
             "mcp_loc": "286 Ly Thuong Kiet P.14 Q.10 TPHCM Vietnam",
             "mcp_coord": "10.7721165,106.6579187",
             "mcp_cap": -1,
-            "mcp_janitor": "-1"
+            "mcp_janitor": "-1",
+            "mcp_route": "-1"
         },
         {
             "mcp_id": "M1",
@@ -14,7 +15,8 @@
             "mcp_loc": "227 Nguyen Van Cu P.4 Q.5 TPHCM Vietnam",
             "mcp_coord": "10.7630909,106.6824733",
             "mcp_cap": 15,
-            "mcp_janitor": ""
+            "mcp_janitor": "",
+            "mcp_route": "-1"
         },
         {
             "mcp_id": "M2",
@@ -22,7 +24,8 @@
             "mcp_loc": "15 D5 P.25 Q.BinhThanh TPHCM Vietnam",
             "mcp_coord": "10.8073401,106.7130697",
             "mcp_cap": 50,
-            "mcp_janitor": ""
+            "mcp_janitor": "",
+            "mcp_route": "-1"
         },
         {
             "mcp_id": "M3",
@@ -30,7 +33,8 @@
             "mcp_loc": "2 Nguyen Tat Thanh P.13 Q.4 TPHCM Vietnam",
             "mcp_coord": "10.7678868,106.7056941",
             "mcp_cap": 70,
-            "mcp_janitor": ""
+            "mcp_janitor": "",
+            "mcp_route": "-1"
         },
         {
             "mcp_id": "M4",
@@ -38,7 +42,8 @@
             "mcp_loc": "217 Hong Bang P.11 Q.5 TPHCM Vietnam",
             "mcp_coord": "10.754651,106.6632992",
             "mcp_cap": 85,
-            "mcp_janitor": ""
+            "mcp_janitor": "",
+            "mcp_route": "-1"
         }
     ]
 }

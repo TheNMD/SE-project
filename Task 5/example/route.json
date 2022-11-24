@@ -2,9 +2,16 @@
     "route_list": [
         {
             "route_id": "R0",
-            "route_direction": "M0 -> M1 -> M2 -> M0",
-            "route_length": "0 m",
-            "route_time": "0 mins",
+            "route_direction": "M0 -> M0 -> M1 -> M3 -> M4",
+            "route_length": "17776 m",
+            "route_time": "2992 mins",
+            "route_status": "Unassigned"
+        },
+        {
+            "route_id": "R1",
+            "route_direction": "M0 -> M4 -> M1 -> M0 ->  -> M0",
+            "route_length": "17776 m",
+            "route_time": "2992 mins",
             "route_status": "Unassigned"
         }
     ]

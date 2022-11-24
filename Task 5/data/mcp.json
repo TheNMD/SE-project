@@ -4,41 +4,190 @@
             "mcp_id": "M0",
             "mcp_name": "Bach Khoa",
             "mcp_loc": "286 Ly Thuong Kiet P.14 Q.10 TPHCM Vietnam",
-            "mcp_coord": "10.7721165,106.6579187",
+            "mcp_coord": "10.772325279030063, 106.65787274967713",
             "mcp_cap": -1,
-            "mcp_janitor": "-1"
+            "mcp_janitor": "-1",
+            "mcp_route": "-1"
         },
         {
             "mcp_id": "M1",
             "mcp_name": "Khoa hoc Tu nhien",
             "mcp_loc": "227 Nguyen Van Cu P.4 Q.5 TPHCM Vietnam",
-            "mcp_coord": "10.7630909,106.6824733",
+            "mcp_coord": "10.763035854173207, 106.68246094011415",
             "mcp_cap": 15,
-            "mcp_janitor": ""
+            "mcp_janitor": "",
+            "mcp_route": ""
         },
         {
             "mcp_id": "M2",
             "mcp_name": "Ngoai Thuong",
             "mcp_loc": "15 D5 P.25 Q.BinhThanh TPHCM Vietnam",
-            "mcp_coord": "10.8073401,106.7130697",
-            "mcp_cap": 50,
-            "mcp_janitor": ""
+            "mcp_coord": "10.807461510643742, 106.7129661503155",
+            "mcp_cap": 51,
+            "mcp_janitor": "",
+            "mcp_route": ""
         },
         {
             "mcp_id": "M3",
             "mcp_name": "Luat",
             "mcp_loc": "2 Nguyen Tat Thanh P.13 Q.4 TPHCM Vietnam",
-            "mcp_coord": "10.7678868,106.7056941",
-            "mcp_cap": 70,
-            "mcp_janitor": ""
+            "mcp_coord": "10.767649200012244, 106.70569705539162",
+            "mcp_cap": 66,
+            "mcp_janitor": "",
+            "mcp_route": ""
         },
         {
             "mcp_id": "M4",
             "mcp_name": "Y Duoc",
             "mcp_loc": "217 Hong Bang P.11 Q.5 TPHCM Vietnam",
+            "mcp_coord": "10.754494315628872, 106.66330532431057",
+            "mcp_cap": 85,
+            "mcp_janitor": "",
+            "mcp_route": ""
+        },
+        {
+            "mcp_id": "M5",
+            "mcp_name": "Sai Gon",
+            "mcp_loc": "180 Cao Lo P.4 Q.8 TPHCM Vietnam",
+            "mcp_coord": "10.739462641227524, 106.67810084368435",
+            "mcp_cap": 28,
+            "mcp_janitor": "",
+            "mcp_route": ""
+        },
+        {
+            "mcp_id": "M6",
+            "mcp_name": "Ton Duc Thang",
+            "mcp_loc": "19 Nguyen Huu Tho P.TanHung Q.7 TPHCM Vietnam",
+            "mcp_coord": "10.733917145654353, 106.69970700584479",
+            "mcp_cap": 7,
+            "mcp_janitor": "",
+            "mcp_route": ""
+        },
+        {
+            "mcp_id": "M7",
+            "mcp_name": "Kinh te",
+            "mcp_loc": "59C Nguyen Dinh Chieu P.6 Q.3 TPHCM Vietnam",
+            "mcp_coord": "10.783912861419154, 106.69633268494414",
+            "mcp_cap": 39,
+            "mcp_janitor": "",
+            "mcp_route": ""
+        },
+        {
+            "mcp_id": "M8",
+            "mcp_name": "Gia Dinh",
+            "mcp_loc": "187 Hoang Van Thu P.8 Q.PhuNhuan TPHCM Vietnam",
+            "mcp_coord": "10.799854635183715, 106.67465338186025",
+            "mcp_cap": 72,
+            "mcp_janitor": "",
+            "mcp_route": ""
+        },
+        {
+            "mcp_id": "M9",
+            "mcp_name": "Hong Duc",
+            "mcp_loc": "5 Quang Trung P.11 Q.GoVap TPHCM Vietnam",
+            "mcp_coord": "10.835935689528208, 106.66151748208313",
+            "mcp_cap": 96,
+            "mcp_janitor": "",
+            "mcp_route": ""
+        },
+        {
+            "mcp_id": "M10",
+            "mcp_name": "Pasteur",
+            "mcp_loc": "189 Kinh Duong Vuong P.12 Q.6 TPHCM Vietnam",
+            "mcp_coord": "10.749064297916597, 106.62904141245609",
+            "mcp_cap": 22,
+            "mcp_janitor": "",
+            "mcp_route": ""
+        },
+        {
+            "mcp_id": "M11",
+            "mcp_name": "GTVT",
+            "mcp_loc": "8 Nguyen Anh Thu P.TrungMyTay Q.12 TPHCM Vietnam",
+            "mcp_coord": "10.859690658744025, 106.613576747598",
+            "mcp_cap": 58,
+            "mcp_janitor": "",
+            "mcp_route": ""
+        },
+        {
+            "mcp_id": "M12",
+            "mcp_name": "Hoc Mon",
+            "mcp_loc": "814 Song Hanh TT.HocMon Q.HocMon TPHCM Vietnam",
+            "mcp_coord": "10.892775694208593, 106.59075931485505",
+            "mcp_cap": 67,
+            "mcp_janitor": "",
+            "mcp_route": ""
+        },
+        {
+            "mcp_id": "M13",
+            "mcp_name": "Y Duoc",
+            "mcp_loc": "217 Hong Bang P.11 Q.5 TPHCM Vietnam",
             "mcp_coord": "10.754651,106.6632992",
             "mcp_cap": 85,
-            "mcp_janitor": ""
+            "mcp_janitor": "",
+            "mcp_route": ""
+        },
+        {
+            "mcp_id": "M14",
+            "mcp_name": "Y Duoc",
+            "mcp_loc": "217 Hong Bang P.11 Q.5 TPHCM Vietnam",
+            "mcp_coord": "10.754651,106.6632992",
+            "mcp_cap": 85,
+            "mcp_janitor": "",
+            "mcp_route": ""
+        },
+        {
+            "mcp_id": "M15",
+            "mcp_name": "Y Duoc",
+            "mcp_loc": "217 Hong Bang P.11 Q.5 TPHCM Vietnam",
+            "mcp_coord": "10.754651,106.6632992",
+            "mcp_cap": 85,
+            "mcp_janitor": "",
+            "mcp_route": ""
+        },
+        {
+            "mcp_id": "M16",
+            "mcp_name": "Y Duoc",
+            "mcp_loc": "217 Hong Bang P.11 Q.5 TPHCM Vietnam",
+            "mcp_coord": "10.754651,106.6632992",
+            "mcp_cap": 85,
+            "mcp_janitor": "",
+            "mcp_route": ""
+        },
+        {
+            "mcp_id": "M17",
+            "mcp_name": "Y Duoc",
+            "mcp_loc": "217 Hong Bang P.11 Q.5 TPHCM Vietnam",
+            "mcp_coord": "10.754651,106.6632992",
+            "mcp_cap": 85,
+            "mcp_janitor": "",
+            "mcp_route": ""
+        },
+        {
+            "mcp_id": "M18",
+            "mcp_name": "Y Duoc",
+            "mcp_loc": "217 Hong Bang P.11 Q.5 TPHCM Vietnam",
+            "mcp_coord": "10.754651,106.6632992",
+            "mcp_cap": 85,
+            "mcp_janitor": "",
+            "mcp_route": ""
+        },
+        {
+            "mcp_id": "M19",
+            "mcp_name": "Y Duoc",
+            "mcp_loc": "217 Hong Bang P.11 Q.5 TPHCM Vietnam",
+            "mcp_coord": "10.754651,106.6632992",
+            "mcp_cap": 85,
+            "mcp_janitor": "",
+            "mcp_route": ""
+        },
+        {
+            "mcp_id": "M20",
+            "mcp_name": "Y Duoc",
+            "mcp_loc": "217 Hong Bang P.11 Q.5 TPHCM Vietnam",
+            "mcp_coord": "10.754651,106.6632992",
+            "mcp_cap": 85,
+            "mcp_janitor": "",
+            "mcp_route": ""
         }
     ]
 }
