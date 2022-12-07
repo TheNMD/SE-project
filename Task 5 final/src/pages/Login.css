@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+.background {
+  background-image: url("../assets/login.jpg");
+  height: 100vh;
+  background-position: center;
+  background-image: no-repeat;
+  background-size: cover;
+}
+.control-group {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #ffffffff; /* white */
+  border-radius: 8px; /* border-xl */
+  border-width: 1px;
+  border-color: #4069e5ff; /* tertiary1-500 */
+  border-style: solid;
+  box-shadow: 0px 4px 9px #171a1f, 0px 0px 2px #171a1f;
+  width: 450px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: stretch;
+  margin-bottom: 10px;
+  user-select: none;
+}
+.control-group img {
+  width: 183px;
+  height: 149px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5px;
+}
+.form-control input {
+  background: #f3f4f6ff; /* neutral-200 */
+  border-radius: 26px;
+  border-width: 0px;
+  height: 44px;
+  width: 328px;
+  padding-left: 20px;
+  margin-bottom: 15px;
+}
+.form-control input:focus {
+  border: solid #8353e2ff;
+  outline-offset: 0px;
+  outline: none;
+}
+.form-control input:hover {
+    border: solid #8353e2ff;
+    outline-offset: 0px;
+    outline: none;
+  }
+.form-actions button {
+  border: none;
+  border-radius: 26px;
+  color: #ffffffff; /* white */
+  background: #1091f4ff;
+  height: 48px;
+  width: 350px;
+  font-size: 18px;
+  font-family: "Inter", sans-serif;
+  line-height: 28px;
+}
+.form-actions button:hover {
+  border: solid #8353e2ff;
+}
+
+.form-control div {
+  font-size: 18px;
+  font-family: "Inter", sans-serif;
+  font-weight: bolder;
+  margin-bottom: 8px;
+}
